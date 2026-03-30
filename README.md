@@ -20,8 +20,8 @@ Python 3
 Matplotlib (for charts)
 Standard Input/Output for user interaction
 # 🚀 Installation & Running the Project
-- Clone the repository
-- 
+# -Clone the repository
+- git clone: https://github.com/sanjana25bce10151-ship-it/Expense_tracker.py.git
 
 -Install required library
 pip install matplotlib
@@ -48,4 +48,3 @@ Expense_Tracker_Program.py
 
 5.Exit the application using Option 4.
 
-# 📸 Screenshots
