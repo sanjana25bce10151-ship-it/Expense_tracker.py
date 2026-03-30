@@ -23,10 +23,10 @@ Standard Input/Output for user interaction
 # -Clone the repository
 - git clone: https://github.com/sanjana25bce10151-ship-it/Expense_tracker.py.git
 
--Install required library
+# -Install required library
 pip install matplotlib
 
--Run the program
+# -Run the program
 Expense_Tracker_Program.py
 
 # 📝 Instructions for Testing
