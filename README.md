@@ -27,7 +27,7 @@ Standard Input/Output for user interaction
 pip install matplotlib
 
 # -Run the program
-Expense_Tracker_Program.py
+Expense_Tracker.py
 
 # 📝 Instructions for Testing
 1.Run the program.
